@@ -104,3 +104,6 @@ node_modules/
 # .tern-port
 
 *.Identifier
+
+# Secret real de Kubernetes (usar k8s/01-secret.example.yaml como plantilla)
+k8s/01-secret.yaml
